@@ -2,6 +2,11 @@
 
 This project integrates **speech recognition** and **hand gesture detection** to create a seamless and hands-free system control experience. It allows users to perform tasks like media control, brightness adjustment, volume control, cursor movement, and web browsing using **voice commands** and **hand gestures**.
 
+---    
+
+![speech_Reco](https://github.com/user-attachments/assets/55a96da3-49a2-4672-9459-1b3703cd22f5)
+
+
 ---
 
 ## Project File
